@@ -21,8 +21,8 @@ This project enables secure file storage by implementing an encryption process b
 - **Cloud Services:** Azure, AWS S3
 - **Monitoring & Logging:** Azure Application Insights, AWS CloudWatch
 - **Database:** CloudSyncDB
-- **Encryption:** AES/RSA (Specify the encryption method used)
-- **Backend:** (Specify the language/framework used, e.g., Python, Node.js, etc.)
+- **Encryption:** AES-258
+- **Backend:** JavaScript
 
 ## Workflow
 1. **File Upload:** User uploads a raw file which is stored in Azure.
